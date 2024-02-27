@@ -1,6 +1,6 @@
 <p style="display:flex">
   < img src="https://github-readme-stats.vercel.app/api?username=zabr1314&show_icons=true&theme=dracula&count_private=true" style="width:49%" />
-  < img src="https://github-readme-streak-stats.herokuapp.com/?user=glows777&show_icons=true&locale=en&layout=compact&theme=dracula" 
+  < img src="https://github-readme-streak-stats.herokuapp.com/?user=zabr1314&show_icons=true&locale=en&layout=compact&theme=dracula" 
 style="width:49%" />
 </p >
 <h2 align="center">Technology Stack</h2>
